@@ -1,4 +1,4 @@
-[Imgur](https://i.imgur.com/hiG2Xr7.jpg?1)
+![Imgur](https://i.imgur.com/hiG2Xr7.jpg?1)
 
 # Projetos
 
