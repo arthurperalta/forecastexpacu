@@ -1,2 +1,6 @@
-# forecastexpacu
-Forecast de Exportação do NCM 17011400 - "Outros Açúcares de Cana" no Estado de São Paulo
+[Imgur](https://i.imgur.com/hiG2Xr7.jpg?1)
+
+# Projetos
+
+
+Neste repositório você encontrará todos os projetos que finalizei ou estou trabalhando.
